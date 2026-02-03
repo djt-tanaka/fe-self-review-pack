@@ -1,0 +1,6 @@
+{
+  "name": "fe-self-review-pack",
+  "description": "FEセルフレビュー一式（pnpm + Playwright）",
+  "version": "1.0.0",
+  "author": { "name": "Yosuke Tanaka" }
+}

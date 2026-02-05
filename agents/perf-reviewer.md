@@ -1,9 +1,5 @@
 ---
 name: perf-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】パフォーマンス観点（不要再レンダ、重い計算、依存配列、データ取得のウォーターフォール、バンドル肥大）を確認し、測定手段（Lighthouse/LHCI等）があれば実行して影響を評価する。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

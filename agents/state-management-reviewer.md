@@ -1,9 +1,5 @@
 ---
 name: state-management-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】状態管理（グローバル/ローカル、キャッシュ、同期/非同期、競合、レース、二重更新）を重点的に確認し、バグになりやすい遷移を指摘する。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

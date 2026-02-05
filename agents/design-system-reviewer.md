@@ -1,9 +1,5 @@
 ---
 name: design-system-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】デザインシステム/コンポーネント規約（既存コンポ利用、トークン、余白、色、アクセント、再利用性）への適合を確認し、逸脱を最小差分で戻す案を出す。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

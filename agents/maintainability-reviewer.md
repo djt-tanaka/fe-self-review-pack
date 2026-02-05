@@ -1,9 +1,5 @@
 ---
 name: maintainability-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】保守性・可読性観点（責務分離、命名、重複、例外処理、型境界、将来の変更容易性）を確認し、最小差分での改善案を出す。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

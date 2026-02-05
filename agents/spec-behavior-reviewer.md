@@ -1,9 +1,5 @@
 ---
 name: spec-behavior-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】仕様・状態遷移・エラーハンドリング・境界条件（空/0件/権限なし/タイムアウト/二重送信/戻る進む）を中心に、回帰リスクと再現手順を整理する。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

@@ -1,9 +1,5 @@
 ---
 name: i18n-l10n-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】i18n観点（文言キー、複数言語、文字数差、日付/通貨/単位、RTL対応の影響）を確認し、文字溢れや文言不備を検出する。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

@@ -1,9 +1,5 @@
 ---
 name: api-contract-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】API契約の変更影響（リクエスト/レスポンス型、エラーコード、互換性、ローディング/リトライ）を確認し、フロント側の破綻ポイントを洗い出す。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

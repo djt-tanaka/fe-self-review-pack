@@ -1,9 +1,5 @@
 ---
 name: pr-writer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】変更内容を短く正確に説明するPR本文（何を/なぜ/どう検証したか/残リスク）を作成し、レビューされやすい形に整える。"
 tools: Read, Grep, Glob
 model: sonnet

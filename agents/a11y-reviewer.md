@@ -1,9 +1,5 @@
 ---
 name: a11y-reviewer
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】アクセシビリティ観点（セマンティクス、キーボード操作、フォーカス、フォームlabel/エラー関連付け、ARIA）をチェックし、既存のa11yテストがあれば実行して要点を報告する。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

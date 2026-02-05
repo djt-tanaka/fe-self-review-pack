@@ -1,9 +1,5 @@
 ---
 name: verification-runner
-group: fe-self-review-pack
-group_label: "FEセルフレビュー一式（pnpm + Playwright）"
-group_version: "1.0.0"
-group_owner: "created-with-chatgpt-2026-02-03"
 description: "【FEセルフレビュー一式 v1.0】リポジトリの scripts を検出して lint/typecheck/test/build/e2e 等を実行し、失敗時は原因候補と次の一手をログ全文ではなく要約で返す（高ボリューム出力隔離担当）。"
 tools: Read, Grep, Glob, Bash
 model: sonnet

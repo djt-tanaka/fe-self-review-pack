@@ -3,6 +3,7 @@ description: FE変更のセルフレビューを観点別サブエージェン�
 ---
 
 次の手順でセルフレビューを開始して。
+共通方針（共通制約・重大度・出力ルール）は skills/fe-self-review/SKILL.md に従うこと。
 
 1) 入口：差分スナップショット（最小）
 - git status
@@ -20,7 +21,7 @@ description: FE変更のセルフレビューを観点別サブエージェン�
 - verification-runner（pnpmで lint/typecheck/test/build/e2e=Playwright を実行。ログは要約のみ）
 
 3) 集約
-- 結果を統合し、優先度順に並べる：Critical（マージ不可） / High / Medium / Low
+- 結果を統合し、SKILL.md の重大度定義に従い優先度順に並べる
 - 未実施の検証があるなら理由と代替案を明記
 - PR説明文ドラフト（何を/なぜ/どう検証したか/残リスク）を作成
 
